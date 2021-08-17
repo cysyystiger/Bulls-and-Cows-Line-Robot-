@@ -1,4 +1,4 @@
-# Bulls-and-Cows-Line-Robot-
+# athome-bullsandcows
 這是一款與Line機器人的小遊戲
 1. 加入機器人好友(名稱:1A2B id:@217iuqhw)
 
