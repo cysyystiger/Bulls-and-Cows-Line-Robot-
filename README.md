@@ -1,10 +1,3 @@
 # athome-bullsandcows
-這是一款與Line機器人的小遊戲
-1. 加入機器人好友(名稱:1A2B id:@217iuqhw)
-
-指令:
-開始(開始遊戲)
-
-過程(可以看到你前面猜的歷程紀錄)
-
-看答案(猜不出來的時候可以直接看答案)
+# Linebot Game
+## Q : How to play?
