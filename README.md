@@ -1,2 +1,4 @@
 # athome-bullsandcows
-Q : How to play?
+This is a game implemented by LineBot.
+
+dasf
